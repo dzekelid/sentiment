@@ -16,9 +16,9 @@ tags:
 - Natural Language
 - Machine Learning
 - Google APIs
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/sentiment/master/_listings/google-cloud-natural-language/apis.yaml
+created: "2018-03-22"
+modified: "2018-03-22"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/sentiment/master/_listings/google-cloud-natural-language/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Google Cloud Natural Language API
@@ -30,7 +30,7 @@ apis:
   tags: Sentiment
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/sentiment/master/_listings/google-cloud-natural-language/v1-documents-analyzesentiment-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sentiment/master/_listings/google-cloud-natural-language/v1-documents-analyzesentiment-post.md
 x-common:
 - type: x-change-log
   url: https://cloud.google.com/natural-language/release-notes
