@@ -16,8 +16,8 @@ tags:
 - Natural Language
 - Machine Learning
 - Google APIs
-created: "2018-03-22"
-modified: "2018-03-22"
+created: "2018-03-24"
+modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/sentiment/master/_listings/google-cloud-natural-language/apis.yaml
 specificationVersion: "0.14"
 apis:
