@@ -31,7 +31,36 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/sentiment/master/_listings/google-cloud-natural-language/v1-documents-analyzesentiment-post.md
+- name: Google Cloud Natural Language API Analyze SEntiment
+  description: Analyzes the sentiment of the provided text.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/powerful-text-analysis-2x.png
+  humanURL: https://cloud.google.com/natural-language/
+  baseURL: http:://language.googleapis.com//
+  tags: Sentiment
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sentiment/master/_listings/google-cloud-natural-language/v1-documents-analyzesentiment-post.md
 x-common:
+- type: x-change-log
+  url: https://cloud.google.com/natural-language/release-notes
+- type: x-documentation
+  url: https://cloud.google.com/natural-language/docs/
+- type: x-getting-started
+  url: https://cloud.google.com/natural-language/docs/getting-started
+- type: x-guides
+  url: https://cloud.google.com/natural-language/docs/how-to
+- type: x-libraries
+  url: https://cloud.google.com/natural-language/docs/reference/libraries
+- type: x-price
+  url: https://cloud.google.com/natural-language/pricing
+- type: x-rate-limits
+  url: https://cloud.google.com/natural-language/limits
+- type: x-sample-applications
+  url: https://cloud.google.com/natural-language/docs/samples
+- type: x-support
+  url: https://cloud.google.com/natural-language/support
+- type: x-website
+  url: https://cloud.google.com/natural-language/
 - type: x-change-log
   url: https://cloud.google.com/natural-language/release-notes
 - type: x-documentation
