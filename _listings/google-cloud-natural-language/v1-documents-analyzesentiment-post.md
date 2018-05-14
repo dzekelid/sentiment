@@ -1,10 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Google Cloud Natural Language
-  description: Google Cloud Natural Language API provides natural language understanding
-    technologies to developers. Examples include sentiment analysis, entity recognition,
-    and text annotations.
+  title: Google Cloud Natural Language API Analyze SEntiment
+  description: Analyzes the sentiment of the provided text.
   contact:
     name: Google
     url: https://google.com
